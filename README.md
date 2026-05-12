@@ -1,4 +1,4 @@
-# Run Selenium Tests With Capybara — TestMu AI (Formerly LambdaTest)
+# Run Selenium Tests With Capybara — TestMu AI (Formerly LambdaTest)
 
 ![Group 7552](https://user-images.githubusercontent.com/95698164/174256293-77d3c07c-0455-4671-bc07-4657ec3b03c7.png)
 
